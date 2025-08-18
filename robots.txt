@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nutmegtrail.tech/sitemap.xml
